@@ -20,5 +20,6 @@ public class Test {
 		System.out.println("...");
 		System.out.println("new from master");
 		System.out.println("new from testing");
+		System.out.println("new from master2");
 	}
 }

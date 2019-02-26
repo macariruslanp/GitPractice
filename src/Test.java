@@ -6,6 +6,8 @@ public class Test {
 	}
 	
 	public static void newFeature() {
-		
+		String arr[] = {"Test"};
+		Test test;
+		test.main(arr);
 	}
 }

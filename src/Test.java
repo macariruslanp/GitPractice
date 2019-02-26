@@ -7,19 +7,8 @@ public class Test {
 		}
 		System.out.println("Hello Git");
 		System.out.println("new line");
-<<<<<<< HEAD
-		newFeature();
-	}
-	
-	public static void newFeature() {
-		String arr[] = {"Test"};
-		Test test = new Test();
-		test.main(arr);
-||||||| merged common ancestors
-=======
 		test();
 		newFeature();
->>>>>>> testing
 	}
 	
 	public static void test() {
@@ -28,6 +17,8 @@ public class Test {
 	
 	public static void newFeature() {
 		System.out.println("new feature");
+		System.out.println("...");
+		//test+
 	}
 	
 }

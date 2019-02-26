@@ -13,6 +13,7 @@ public class Test {
 	
 	public static void test() {
 		System.out.println("test");
+		System.out.println("test2");
 	}
 	
 	public static void newFeature() {
@@ -20,5 +21,6 @@ public class Test {
 		System.out.println("...");
 		System.out.println("new from master");
 		System.out.println("new from testing");
+		System.out.println("new from testing2");
 	}
 }

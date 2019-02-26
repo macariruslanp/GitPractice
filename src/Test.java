@@ -19,6 +19,7 @@ public class Test {
 		System.out.println("new feature");
 		System.out.println("...");
 		//test+
+		System.out.println("new from master");
 	}
 	
 }

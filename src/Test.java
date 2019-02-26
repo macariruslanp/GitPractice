@@ -4,4 +4,8 @@ public class Test {
 		System.out.println("Hello Git");
 		System.out.println("new line");
 	}
+	
+	public static void test() {
+		
+	}
 }

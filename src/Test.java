@@ -7,7 +7,6 @@ public class Test {
 		}
 		System.out.println("Hello Git");
 		System.out.println("new line");
-<<<<<<< HEAD
 		newFeature();
 	}
 	
@@ -15,13 +14,5 @@ public class Test {
 		String arr[] = {"Test"};
 		Test test = new Test();
 		test.main(arr);
-=======
-		Test test = new Test();
-		test.newFeature();
-	}
-	
-	public void newFeature() {
-		System.out.println("new Feature");
->>>>>>> iss53
 	}
 }

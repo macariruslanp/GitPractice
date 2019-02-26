@@ -3,11 +3,11 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
 		System.out.println("new line");
+		Test test;
+		test.newFeature();
 	}
 	
-	public static void newFeature() {
-		String arr[] = {"Test"};
-		Test test;
-		test.main(arr);
+	public void newFeature() {
+		System.out.println("new Feature");
 	}
 }

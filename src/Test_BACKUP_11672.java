@@ -15,7 +15,6 @@ public class Test {
 		String arr[] = {"Test"};
 		Test test = new Test();
 		test.main(arr);
-||||||| merged common ancestors
 =======
 		test();
 		newFeature();

@@ -18,7 +18,6 @@ public class Test {
 	public static void newFeature() {
 		System.out.println("new feature");
 		System.out.println("...");
-		//test+
 		System.out.println("new from master");
 		System.out.println("new from testing");
 	}
